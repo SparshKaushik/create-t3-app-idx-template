@@ -68,9 +68,8 @@
             "id": "db",
             "name": "Database",
             "type": "enum",
-            "default": "none",
+            "default": "sqlite",
             "options": {
-                "none": "None",
                 "mysql": "MySQL",
                 "postgres": "Postgres",
                 "sqlite": "SQLite",
