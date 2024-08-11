@@ -1,6 +1,6 @@
 # create-t3-app-idx-template
 
-<a href="https://idx.google.com/new?template=">
+<a href="https://idx.google.com/new?template=https://github.com/SparshKaushik/create-t3-app-idx-template">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
