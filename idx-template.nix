@@ -1,4 +1,4 @@
-{ pkgs, tailwind ? false, trpc ? false, nextauth ? false, primsa ? false, drizzle ? false, approuter ? false, git_init ? false, db} : {
+{ pkgs, lanugage, tailwind ? false, trpc ? false, nextauth ? false, primsa ? false, drizzle ? false, approuter ? false, git_init ? false, db} : {
   packages = [
     pkgs.nodejs_20
     pkgs.bun
