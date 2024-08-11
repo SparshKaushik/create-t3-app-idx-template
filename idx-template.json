@@ -58,13 +58,6 @@
             "required": false
         },
         {
-            "id": "approuter",
-            "name": "Use App Router ?",
-            "type": "boolean",
-            "default": true,
-            "required": true
-        },
-        {
             "id": "git_init",
             "name": "Initialize New GIT Repo ?",
             "type": "boolean",
