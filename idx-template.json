@@ -27,35 +27,35 @@
             "name": "Use Tailwind ?",
             "type": "boolean",
             "default": true,
-            "required": true
+            "required": false
         },
         {
             "id": "trpc",
             "name": "Use tRPC ?",
             "type": "boolean",
             "default": true,
-            "required": true
+            "required": false
         },
         {
             "id": "nextauth",       
             "name": "Use NextAuth ?",
             "type": "boolean",
             "default": true,
-            "required": true
+            "required": false
         },
         {
             "id": "primsa",
             "name": "Use Prisma ?",
             "type": "boolean",
-            "default": true,
-            "required": true
+            "default": false,
+            "required": false
         },
         {
             "id": "drizzle",
             "name": "Use Drizzle ?",
             "type": "boolean",
             "default": true,
-            "required": true
+            "required": false
         },
         {
             "id": "approuter",
@@ -69,7 +69,7 @@
             "name": "Initialize New GIT Repo ?",
             "type": "boolean",
             "default": true,
-            "required": true
+            "required": false
         },
         {
             "id": "db",

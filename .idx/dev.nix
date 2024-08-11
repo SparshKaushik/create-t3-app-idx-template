@@ -8,6 +8,7 @@
   packages = [
     pkgs.nodejs_20
     pkgs.bun
+    pkgs.alejandra
     # pkgs.nodePackages.nodemon
   ];
 
